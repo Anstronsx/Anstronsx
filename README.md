@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anstronsx</h1>
 <h3 align="center">Data Scientist | Biologist 🌟</h3>
 
+[![Github](https://img.shields.io/github/followers/Anstronsx?label=Follow&style=social)](https://github.com/Anstronsx)
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -76,6 +77,11 @@
 
 <br> 
 
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Anstronsx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 
 <br>
 
@@ -88,3 +94,5 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
